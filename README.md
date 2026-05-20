@@ -1,7 +1,6 @@
 
 # SimpleShop Dynamic Web Project
 
-===解說
 一個適合 Java Web 初學者練習的「簡易購物網站」範例，使用 **JDK 17 + MySQL 8.0 + Eclipse Dynamic Web Project + Tomcat 10.0 + JSP/Servlet** 製作，後端依照 **MVC + DAO Pattern** 分層設計。
 
 本專案適合作為 Java Web、JDBC、Servlet、JSP、MVC、DAO、Session 購物車的教學範例，也適合上傳到 GitHub 作為課堂示範專案。
